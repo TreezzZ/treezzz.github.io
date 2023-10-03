@@ -1,22 +1,36 @@
+preprint:
+  - title: "Less is More: Toward Zero-Shot Local Scene Graph Generation via Foundation Models"
+    authors: <strong>Shu Zhao</strong>, Huijuan Xu
+    conference_short: arXiv
+    conference: arXiv, 2023
+    #pdf: https://arxiv.org/pdf/2102.00648.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/arXiv23_ELEGANT.png
+
+  - title: "NEUCORE: Neural Concept Reasoning for Composed Image Retrieval"
+    authors: <strong>Shu Zhao</strong>, Huijuan Xu
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    #pdf: https://dl.acm.org/doi/pdf/10.1145/3394171.3414033
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/arXiv23_NEUCORE.png
+    #notes: Oral Presentation
 main:
+  - title: "Rescuing Deep Hashing from Dead Bits Problem"
+    authors: <strong>Shu Zhao</strong>, Dayan Wu, Yucan Zhou, Bo Li, Weiping Wang
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2102.00648.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/IJCAI21_RDH.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Asymmetric Deep Hashing for Efficient Hash Code Compression"
+    authors: <strong>Shu Zhao</strong>, Dayan Wu, Wanqian Zhang, Yu Zhou, Bo Li, Weiping Wang
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2020.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3394171.3414033
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/MM20_CCDH.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
