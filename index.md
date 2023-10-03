@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a second-year Ph.D. student at Pennsylvania State University, advised by Prof. [Huijuan Xu](https://visionlanguagelab.github.io/). Previously, I received M.E. degree from University of Chinese Academy of Sciences and B.E. degree from Anhui University.
+
+I was fortunate to work with brilliant people: Dr.[Tan Yu](https://sites.google.com/site/tanyuspersonalwebsite/) at Baidu Research; Prof.[Dayan Wu](https://scholar.google.com/citations?user=O6g-IHsAAAAJ) at Institute of Information Engineering.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Vision & Language**
+- **Perception & Cognition**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** We submitted a paper about employing foundation models for zero-shot local scene graph generation.
+- **[Oct. 2023]** We submitted a paper about concept-level composed image retrieval.
+- **[Aug. 2022]** I joined Pennsylvania State University as a Ph.D. student.
+- **[Mar. 2022]** I interned at Cognitive Computing Laboratory, Baidu Research.
 
 {% include_relative _includes/publications.md %}
 
