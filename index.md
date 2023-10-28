@@ -14,7 +14,7 @@ I was fortunate to work with brilliant people: Dr.[Tan Yu](https://sites.google.
 - **Perception & Cognition**
 
 ## News
-- **[Oct. 2023]** One paper is accepted to UniReps Workshop @ NeurIPS 2023: "NEUCORE: Neural Concept Reasoning for Composed Image Retrieval".
+- **[Oct. 2023]** One paper is accepted to UniReps Workshop, NeurIPS 2023: "NEUCORE: Neural Concept Reasoning for Composed Image Retrieval".
 - **[Oct. 2023]** We submitted a paper about employing foundation models for zero-shot local scene graph generation.
 - **[Aug. 2022]** I joined Pennsylvania State University as a Ph.D. student.
 - **[Mar. 2022]** I interned at Cognitive Computing Laboratory, Baidu Research.
