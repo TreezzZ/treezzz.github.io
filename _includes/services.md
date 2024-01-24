@@ -5,7 +5,7 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://cvpr.thecvf.com/Conferences/2024"><autocolor>Computer Vision and Pattern Recognition Conference (CVPR) 2024</autocolor></a></li>
   <li><a href="https://nips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2023</autocolor></a></li>
-  <li><a href="https://dl.acm.org/conference/mm"><autocolor>ACM International Conference on Multimedia (ACM MM) 2022-2023</autocolor></a></li>
+  <li><a href="https://dl.acm.org/conference/mm"><autocolor>ACM International Conference on Multimedia (ACM MM) 2022-2024</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
